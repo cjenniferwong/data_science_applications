@@ -13,3 +13,5 @@ I defined strong products as products which experienced high number of sales wit
 I defined strong users, as users who constitute much of the sales for the company. Building off the Pareto Principal, I have an intuition that 80% of sales are usually attributed to 20% of the user base. Going forward, I would like to identify the number of sales which makes up the 80% threshold, and use that as a filter to identify my 'strong' users. From then, I will compare how they heard about the company, and see if there is any pattern/distinction between the 'not-strong' users. Assuming there is a difference, I will then make recommendations to the company regarding next steps.
 
 I understand my ultimate goal is to increase revenue. This can be accomplished by finding more power users, or identifying which products generate lots of revenue and increasing those types of products.
+
+#### 4. Designing A/B test. What are your metrics, what do you need to track, etc etc.
