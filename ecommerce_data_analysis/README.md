@@ -2,7 +2,7 @@
 
 This is the result of a take-home in which I was asked to analyze data from an e-commerce company. I feel that these questions touch on skills that are relevant to any company. It forces you to be clear and precise in your definition, and communicate it to different stakeholders so that you can have a common language going forward.
 
-###Questions asked:
+### Questions asked:
 #### 1. What are 'strong' products? Please define 'strong' and explain how you would identify these products from the data provided. Are there any recent trends?
 
 I defined strong products as products which experienced high number of sales within its first 14 days since launch. The reasoning behind the 14 days, is to account for any seasonality which might appear over the course of the week. Also, for this specific company, I know that they release new products every week. The additional week allow it to account for the decrease initial hype and excitement.
